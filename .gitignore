@@ -115,3 +115,12 @@ dev
 
 # répertoire des paires de clés à ne pas divulger
 **/*.ssh*
+
+
+# fichiers de rock bands 
+*.slayer
+*.obituary
+*.napalmdeath
+*.carcass
+*.sepultura
+*.pantera
